@@ -1,0 +1,13 @@
+D:\VisualHomeWork\calculate\bin\Debug\netcoreapp3.1\calculate.exe
+D:\VisualHomeWork\calculate\bin\Debug\netcoreapp3.1\calculate.deps.json
+D:\VisualHomeWork\calculate\bin\Debug\netcoreapp3.1\calculate.runtimeconfig.json
+D:\VisualHomeWork\calculate\bin\Debug\netcoreapp3.1\calculate.runtimeconfig.dev.json
+D:\VisualHomeWork\calculate\bin\Debug\netcoreapp3.1\calculate.dll
+D:\VisualHomeWork\calculate\bin\Debug\netcoreapp3.1\calculate.pdb
+D:\VisualHomeWork\calculate\obj\Debug\netcoreapp3.1\calculate.csprojAssemblyReference.cache
+D:\VisualHomeWork\calculate\obj\Debug\netcoreapp3.1\calculate.AssemblyInfoInputs.cache
+D:\VisualHomeWork\calculate\obj\Debug\netcoreapp3.1\calculate.AssemblyInfo.cs
+D:\VisualHomeWork\calculate\obj\Debug\netcoreapp3.1\calculate.csproj.CoreCompileInputs.cache
+D:\VisualHomeWork\calculate\obj\Debug\netcoreapp3.1\calculate.dll
+D:\VisualHomeWork\calculate\obj\Debug\netcoreapp3.1\calculate.pdb
+D:\VisualHomeWork\calculate\obj\Debug\netcoreapp3.1\calculate.genruntimeconfig.cache
